@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import time
 import base64
-from streamlit_lottie import streamlit_lottie
+import streamlit_lottie
 import requests
 import json
 from streamlit_option_menu import option_menu
